@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="ATS_Demo"
+      id="c2cfbac1-2344-4fb9-9ba7-a8334e36dfbb"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="ATS_Demo"
+      id="c2cfbac1-2344-4fb9-9ba7-a8334e36dfbb"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

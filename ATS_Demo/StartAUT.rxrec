@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="70b29be2-4b23-4a22-a6be-53bf1409b660"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="StartAUT"
+	namespace="ATS_Demo">
+	</codegen>
+	<variables>
+		<var
+		id="89f6a3cd-76bf-4348-bcd3-2eead9222749"
+		name="StartAutProcessIDVar">
+		</var>
+	</variables>
+	<recorditems>
+		<runapprecorditem
+		enabled="True"
+		maximized="False"
+		optional="False">
+			<comment>
+			</comment>
+			<bindings>
+				<binding
+				target="ReturnVariable"
+				variable="StartAutProcessIDVar">
+				</binding>
+			</bindings>
+			<filename>
+				C:\Users\jbranham\Desktop\VipV1.exe
+			</filename>
+			<args>
+			</args>
+		</runapprecorditem>
+	</recorditems>
+	<repository
+	id="656d4d00-3ab9-412d-b2f5-db7b8e8d6eb9"
+	name="ATS_DemoRepository"
+	relativepath="ATS_DemoRepository.rxrep">
+		<codegen
+		classname="ATS_DemoRepository"
+		namespace="ATS_Demo">
+		</codegen>
+		<rootfolder
+		id="71e66ae2-c24c-416c-8364-cdf3ea829333"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		StartAUT.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
